@@ -6,7 +6,7 @@
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-boot-starter</artifactId>
-    <version>${springfox.version}</version>
+    <version>3.0.0</version>
 </dependency>
 ```
 
